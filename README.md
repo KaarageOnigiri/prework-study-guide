@@ -2,7 +2,7 @@
 
 ## Description
 
-My motivation for creating this website is to explore full stack and learn more about programming. I build this project because it can not only help me with storing my notes, it can also gives me a first hand experience on understanding the ins and outs of a website through programming. It solves the problem of notes being potentially deleted or lost. I learned a lot from creating this project; I am now more able to read the programming language a little better, and I am also able to understand the different perspective of programming.
+My motivation for creating this website is to explore full stack and learn more about programming. I build this project because it can not only help me with storing my notes, it can also gives me a first hand experience on understanding the ins and outs of a website through programming. It solves the problem of notes being potentially deleted or lost. I learned a lot from creating this project; I am now more able to read the programming language a little better, and I am also able to understand the different perspectives of programming.
 
 ## Installation
 
